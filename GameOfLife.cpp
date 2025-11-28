@@ -37,4 +37,5 @@ int gridedad [MAX_filas][MAX_cols];     // Cuántos ticks lleva viva una celula
 
 // **GUARDADO DE DATOS** //
 unsingned long cont_tick = 0
+la pucha de teby esta peluda 
 
